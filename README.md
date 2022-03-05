@@ -1,3 +1,26 @@
+## mrpt_msgs (noetic) - 0.2.0-1
+
+The packages in the `mrpt_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release mrpt_msgs --rosdistro noetic -e` on `Sat, 05 Mar 2022 08:09:15 -0000`
+
+The `mrpt_msgs` package was released.
+
+Version of package(s) in repository `mrpt_msgs`:
+
+- upstream repository: https://github.com/mrpt-ros-pkg/mrpt_msgs.git
+- release repository: https://github.com/mrpt-ros-pkg-release/mrpt_msgs-release.git
+- rosdistro version: `0.1.23-2`
+- old version: `0.1.23-2`
+- new version: `0.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## mrpt_msgs (noetic) - 0.1.23-2
 
 The packages in the `mrpt_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release mrpt_msgs --rosdistro noetic` on `Thu, 03 Mar 2022 11:52:09 -0000`
