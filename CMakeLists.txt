@@ -12,6 +12,7 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
   DIRECTORY msg
   FILES
+  GenericObservation.msg
   GraphConstraint.msg
   GraphSlamAgent.msg
   GraphSlamAgents.msg
@@ -20,6 +21,8 @@ add_message_files(
   NodeIDWithLaserScan.msg
   NodeIDWithPose_vec.msg
   NodeIDWithPose.msg
+  ObservationObject.msg
+  SingleObjectObservation.msg
   ObservationRangeBeacon.msg
   ObservationRangeBearing.msg
   SingleRangeBeaconObservation.msg
