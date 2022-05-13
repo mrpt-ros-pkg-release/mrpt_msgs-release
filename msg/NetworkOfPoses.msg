@@ -6,5 +6,5 @@
 # - Root node marking the start of the graph
 
 uint64 root
-NodeIDWithPoseVec nodes
+NodeIDWithPose_vec nodes
 GraphConstraint[] constraints

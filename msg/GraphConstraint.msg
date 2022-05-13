@@ -2,6 +2,6 @@
 #
 # Currently used in the mrpt_graphslam_2d ROS application.
 
-uint64 node_id_from
-uint64 node_id_to
+uint64 nodeID_from
+uint64 nodeID_to
 geometry_msgs/PoseWithCovariance constraint

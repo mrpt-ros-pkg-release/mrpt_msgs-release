@@ -2,5 +2,5 @@
 #
 # Currently used in the mrpt_graphslam_2d ROS application.
 
-uint64 node_id
+uint64 nodeID
 sensor_msgs/LaserScan scan
